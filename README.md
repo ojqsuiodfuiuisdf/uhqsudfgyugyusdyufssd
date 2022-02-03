@@ -1,8 +1,3 @@
-<html>
-<head>
-
-<head>
-<body>
 <script>
 	var link_c = window.location.href;
 	var compliment = link_c.split("#")[1];
@@ -11,5 +6,3 @@
 	window.location.href = "http://caey.co.uk/"+compliment;
 
 </script>
-</body>
-</html>
